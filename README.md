@@ -20,15 +20,15 @@
 - What hesitations do you have about adopting a new kitchen app?
 
 ## Feature List
-- Recipe Management
-- Dish Picture Scanning
-- Suggested Recipes
-- Customizable Timers
-- Prep Lists
-- Unit Conversion
-- Allergen Info
-- Ingredient Substitutions
-- Employee Meal Planner
+- Recipe Management MVP
+- Dish Picture Scanning MVP
+- Suggested Recipes MVP
+- Customizable Timers Later
+- Prep Lists Later
+- Unit Conversion Later
+- Allergen Info Later
+- Ingredient Substitutions Later
+- Employee Meal Planner Later
 
 ## UI Screens
 - Main Screen
