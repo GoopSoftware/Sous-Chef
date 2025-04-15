@@ -1,5 +1,5 @@
 # Sous-Chef Plan
-https://www.figma.com/proto/yhhoqoJ7WR0XNM9nYyhTuA/Untitled?node-id=0-1&t=ebKH8QeSCsVHahQz-1
+Figma Link: https://www.figma.com/proto/yhhoqoJ7WR0XNM9nYyhTuA/Untitled?node-id=0-1&t=ebKH8QeSCsVHahQz-1
 
 **Description:** A tool designed to help Chefs through their day to day life
 
