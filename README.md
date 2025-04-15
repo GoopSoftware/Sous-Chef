@@ -1,7 +1,7 @@
 # Sous-Chef Plan
+https://www.figma.com/proto/yhhoqoJ7WR0XNM9nYyhTuA/Untitled?node-id=0-1&t=ebKH8QeSCsVHahQz-1
 
 **Description:** A tool designed to help Chefs through their day to day life
-Figma Link: https://www.figma.com/proto/yhhoqoJ7WR0XNM9nYyhTuA/Untitled?node-id=0-1&t=ebKH8QeSCsVHahQz-1
 
 ## Interview Questions
 - Thinking about your day to day kitchen work, what specific app features would save you the most time? For example, recipe/ingredient scanning, automatic recipe scaling, or multiple timers.
