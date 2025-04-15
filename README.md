@@ -18,6 +18,7 @@
 - If you added a recipe to the app, how would you like it to be shared to different chefs?
 - If you were unsure how to use a feature of the app, how would you like it to teach you? (teaching section, tooltips, videos, etc)
 - What hesitations do you have about adopting a new kitchen app?
+- During a day where you have a longer than 8 hour shift, how can an app help you get through it?
 
 ## Feature List
 - Recipe Management MVP
